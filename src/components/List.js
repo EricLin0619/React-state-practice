@@ -5,8 +5,6 @@ import Item from './Item'
 function List() {
   return (
     <Container>
-      List
-      <Item/>
       <Item/>
       <Item/>
     </Container>

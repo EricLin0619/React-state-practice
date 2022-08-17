@@ -29,6 +29,7 @@ const Input = styled.input`
     margin-top: 10px;
     width: 100%;
     height: 40px;
+    border-radius: 4px;
 `
 const CT = styled.div`
     margin-top: 5px;

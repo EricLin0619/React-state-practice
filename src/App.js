@@ -7,7 +7,6 @@ function App() {
   return (
     <Container>
       <Edit/>
-      <hr style={{marginTop:"30px"}} />
       <List/>
     </Container>
   );
